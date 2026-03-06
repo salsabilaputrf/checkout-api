@@ -108,6 +108,7 @@ Copy URL ngrok → daftarkan di Midtrans Sandbox Webhook URL.
 ## 7️⃣ Contoh Request
 
 Collection sudah dipublish di **Postman**.
+https://documenter.getpostman.com/view/52958829/2sBXcLfHGJ
 
 Gunakan environment variable `base_url` sesuai server (lokal/ngrok):
 
